@@ -1,0 +1,9 @@
+[submodule "mmtk-jikesrvm"]
+	path = mmtk-jikesrvm
+	url = https://github.com/mmtk/mmtk-jikesrvm.git
+[submodule "jikesrvm"]
+	path = jikesrvm
+	url = https://github.com/mmtk/jikesrvm.git
+[submodule "mmtk-core"]
+	path = mmtk-core
+	url = https://github.com/mmtk/mmtk-core.git
