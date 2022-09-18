@@ -1,0 +1,18 @@
+{
+    "name": "mmtk_dev_env",
+    "build": {
+      "dockerfile": "Dockerfile"
+    },
+    "runArgs": ["--name=mmtk_dev_env"],
+    "settings": {
+      "terminal.integrated.profiles.linux": {
+        "bash": {
+          "path": "/bin/bash"
+        }
+      },
+      "editor.tabSize": 4
+    },
+    "extensions": [
+      "bmewburn.vscode-intelephense-client"
+    ]
+}
